@@ -1,1 +1,1 @@
-type nul > up_to_date
+git pull origin master
